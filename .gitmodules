@@ -1,3 +1,6 @@
 [submodule "submodule_test_sub"]
 	path = submodule_test_sub
 	url = https://github.com/gundam1945/submodule_test_sub
+[submodule "libs"]
+	path = libs
+	url = https://github.com/gundam1945/submodule_test_sub
